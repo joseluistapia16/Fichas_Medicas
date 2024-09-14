@@ -10,9 +10,9 @@ package fichas_medicas;
  */
 public class Fichas_Medicas {
 
-    /**
-     * @param args vvvv
-     */
+
+
+     // Inicio
     public static void main(String[] args) {
         // TODO code application logic here
     }
