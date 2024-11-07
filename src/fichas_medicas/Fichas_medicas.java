@@ -15,6 +15,7 @@ public class Fichas_medicas {
      * Prueba Laura 7/11/2024 14:43pm
      * Prueba José Luis 7/11/2024 14:39 pm
      * Prueba Victor Pico 7/11/2024 14:45 pm
+     * Prueba Hector Drouet 7/11/2024 14:47pm
       
      */
     public static void main(String[] args) {
