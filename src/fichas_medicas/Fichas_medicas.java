@@ -11,7 +11,7 @@ package fichas_medicas;
 public class Fichas_medicas {
 
     /**
-     * @param args the command line arguments
+     * Primer cambio 6 noviembre 2023
      */
     public static void main(String[] args) {
         // TODO code application logic here
