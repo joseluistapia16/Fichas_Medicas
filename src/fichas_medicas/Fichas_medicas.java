@@ -15,7 +15,7 @@ public class Fichas_medicas {
      * Prueba Laura 7/11/2024 14:43pm
      * Prueba José Luis 7/11/2024 14:39 pm
      * Prueba Victor Pico 7/11/2024 14:45 pm
-      
+      Prueba Pablo Garcia 7/11/2024 02:52 pm
      */
     public static void main(String[] args) {
         System.out.println("Practicas Bernardino");  // Imprime un saludo
