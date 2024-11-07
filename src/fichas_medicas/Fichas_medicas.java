@@ -12,6 +12,7 @@ public class Fichas_medicas {
      /**
      * Primer cambio 6 noviembre 2023
      * Prueba Jose 7/11/2024 14:28pm
+     * Prueba Laura 7/11/2024 14:43pm
      */
     public static void main(String[] args) {
         System.out.println("Practicas Bernardino");  // Imprime un saludo
