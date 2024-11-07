@@ -9,12 +9,11 @@ package fichas_medicas;
  * @author Usuario
  */
 public class Fichas_medicas {
-
-    /**
+     /**
      * Primer cambio 6 noviembre 2023
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Practicas Bernardino");  // Imprime un saludo
+         // TODO code application logic here
     }
-    
 }
