@@ -12,7 +12,7 @@ import lombok.ToString;
 /**
  *
  * @author Laura Pulido 
- * fecha: 08-11-2024 hora:15:07pm
+ * fecha: 08-11-2024 hora:15:12pm
  */
 @Data
 @AllArgsConstructor
