@@ -7,36 +7,36 @@ package com.fichas_medicas.domain;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 
 /**
  *
- * @author Laura Pulido 
- * fecha: 08-11-2024 hora:15:12pm
+ * @author Laura Pulido fecha: 08-11-2024 hora:21:12pm
+ * Editado: Jose Luis Tapia fecha: 08-11-2024 hora:15:12pm
  */
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
 @ToString
-
+@RequiredArgsConstructor
+@AllArgsConstructor
 public class Usuario {
+
     private int id_usuario;
+    @NonNull
     private String usuario;
-    private int password;
+    @NonNull
+    private String password;
+    @NonNull
     private String nombre;
+    @NonNull
     private String apellido;
+    @NonNull
     private String correo;
+    @NonNull
     private int id_rol;
+    @NonNull
     private String estado;
 
-    public Usuario(String usuario, int password, String nombre, String apellido, String correo, int id_rol, String estado) {
-        this.usuario = usuario;
-        this.password = password;
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.correo = correo;
-        this.id_rol = id_rol;
-        this.estado = estado;
-    }
-    
 }
