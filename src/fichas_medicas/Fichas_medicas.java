@@ -1,5 +1,6 @@
 package fichas_medicas;
 
+import com.fichas_medicas.domain.Area;
 import com.fichas_medicas.domain.Usuario;
 
 /**
@@ -24,6 +25,7 @@ public class Fichas_medicas {
         Usuario ob1 = new Usuario(10, "ccvvv", "wwww", "jose", "lopez", "hhjh",
                  0, "A");
         System.out.println(ob.toString());
-        
+        Area obA = new Area("Informatica", 1, "A");
+        System.out.println(obA.toString());
     }
 }
