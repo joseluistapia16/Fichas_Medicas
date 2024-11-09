@@ -23,7 +23,7 @@ import lombok.ToString;
 @AllArgsConstructor
 public class Usuario {
 
-    private int id_usuario;
+    private Integer id_usuario;
     @NonNull
     private String usuario;
     @NonNull
