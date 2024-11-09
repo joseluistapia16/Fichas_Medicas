@@ -35,7 +35,7 @@ public class Usuario {
     @NonNull
     private String correo;
     @NonNull
-    private int id_rol;
+    private Integer  id_rol;
     @NonNull
     private String estado;
 
